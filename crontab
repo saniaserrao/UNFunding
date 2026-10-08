@@ -1,0 +1,1 @@
+0 6 * * * root . /app/env.sh; cd /app && /usr/local/bin/python src/run_pipeline.py >> /proc/1/fd/1 2>> /proc/1/fd/2
