@@ -38,9 +38,9 @@ The primary data source is the United Nations Office for the Coordination of Hum
 
 The current pipeline works with three CBPF API sources:
 
-- **Pooled Funds** — information about country-based pooled funds.
-- **CBPF Contributions** — donor pledges and payments made to pooled funds.
-- **CBPF Projects** — project-level funding information.
+- **Pooled Funds** : information about country-based pooled funds.
+- **CBPF Contributions** : donor pledges and payments made to pooled funds.
+- **CBPF Projects** : project-level funding information.
 
 CBPF contributions are the primary dataset used for donor behavior analysis.
 
